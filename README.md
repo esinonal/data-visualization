@@ -1,9 +1,5 @@
 # data-visualization
 
-1 : live-server
+These folders each contain their own visualization. ReverseScatterplot can be run with "live-server", BarChart can be run with "npm run start", then "live-server," and the remaining ones can be run with "npm run start" then navigating to the local host webpage it links to.
 
-2: 
- npm run start
- live-server
-
-3: npm run start then go to local host it says
+There are pictures of the visualizations provided in each of the  folders (and a gif for the HopsPlot). These were all created using D3, and javascript, as well as some CSS. 
